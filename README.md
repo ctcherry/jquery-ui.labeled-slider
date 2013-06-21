@@ -1,7 +1,7 @@
 jQuery UI labeledSlider
 =======================
 
-*Work in Progress*
+*Not in active development, contributions welcome*
 
 This plugin wraps the functionality provided by the jQuery UI Slider plugin, an adds two main features:
 
@@ -11,7 +11,7 @@ This plugin wraps the functionality provided by the jQuery UI Slider plugin, an 
 Drawbacks
 ---------
 
-Currently some things are hardcoded, we are working to remove these restrictions.
+Currently some things are hardcoded. If you are looking to contribute, these would be a good place to start!
 
 - The `slide` event is set for you and not-overridable.
 - `range` mode is always enabled.
